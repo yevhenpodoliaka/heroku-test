@@ -1,0 +1,17 @@
+.item{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.item button {
+      padding: 4px;
+      border-radius: 4px;
+      border: none;
+
+
+  }
+
+.item button:hover {
+      background-color: green;
+      color: white;
+  }
